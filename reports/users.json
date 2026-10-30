@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Leanne Graham",
+        "email": "Sincere@april.biz",
+        "city": "Gwenborough",
+        "company_name": "Romaguera-Crona"
+    },
+    {
+        "id": 2,
+        "name": "Ervin Howell",
+        "email": "Shanna@melissa.tv",
+        "city": "Wisokyburgh",
+        "company_name": "Deckow-Crist"
+    },
+    {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "email": "Nathan@yesenia.net",
+        "city": "McKenziehaven",
+        "company_name": "Romaguera-Jacobson"
+    }
+]
